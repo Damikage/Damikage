@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Oluwadamilare Asaolu
 - 👀 I’m interested in Game, App and Web Development
+- I know HTML, CSS and JavaScript languages
 - 🌱 I’m currently learning Python language.
 
 <!---
